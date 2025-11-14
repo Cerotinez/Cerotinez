@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Cerotinez
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing
+Hi, I’m @Cerotinez
+I’m interested in coding
+I’m currently learning C++
 
 
 <!---
